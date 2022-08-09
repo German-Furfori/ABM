@@ -1,0 +1,1 @@
+Este proyecto se trata de un formulario ABM de una tabla a una base de datos relacional subida a clevercloud con HTML, CSS, JavaScript (AJAX y JQuery), PHP, PhpMyAdmin y MySQL.
