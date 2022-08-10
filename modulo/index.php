@@ -38,7 +38,8 @@
 				<div class="header">
 					<button id="botonCargar" class="btn btn-dark">Cargar datos</button>
 					<button id="botonVaciar" class="btn btn-dark">Vaciar listado</button>
-					<button class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#formAlta">Alta</button>
+					<button class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#formAlta">Alta</button> <br /> <br />
+					Ordenar por:
 					<input type="text" name="orden" id="orden" readonly="readonly" value="Legajo">
 				</div>
 			</header>
